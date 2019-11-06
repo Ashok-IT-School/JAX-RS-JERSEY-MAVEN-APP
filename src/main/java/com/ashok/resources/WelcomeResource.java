@@ -13,7 +13,7 @@ import javax.ws.rs.Path;
 public class WelcomeResource {
 
 	public WelcomeResource() {
-		System.out.println("WelcomeResource:::Constructor");
+		System.out.println("WelcomeResource:::Constructor abc");
 	}
 
 	/**
